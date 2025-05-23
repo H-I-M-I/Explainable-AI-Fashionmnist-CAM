@@ -1,6 +1,6 @@
 ## 📘 FashionMNIST-CAM: Class Activation Mapping with CNNs
 
-This project demonstrates how to implement **Class Activation Maps (CAMs)** using a simple Convolutional Neural Network (CNN) trained on the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist). CAMs provide visual insight into which regions of an image the CNN focuses on when making a classification decision.
+This project demonstrates how to implement **Class Activation Maps (CAMs)** using a simple Convolutional Neural Network (CNN) trained on the Fashion MNIST dataset. CAMs provide visual insight into which regions of an image the CNN focuses on when making a classification decision.
 
 ---
 
