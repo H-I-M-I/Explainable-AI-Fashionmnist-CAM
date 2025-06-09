@@ -13,8 +13,8 @@ Fashion MNIST is a dataset of 70,000 grayscale images (28×28 pixels) of clothin
 | 0     | T-shirt/top |
 | 1     | Trouser     |
 | 2     | Pullover    |
-| 3     | Dress       |
-| 4     | Coat        |
+| 3     | Coat        |
+| 4     | Dress       |
 | 5     | Sandal      |
 | 6     | Shirt       |
 | 7     | Sneaker     |
